@@ -2,5 +2,10 @@
 Plain blog using html and css.
 
 # Screenshot
-![image](https://github.com/cmesias/plain-blog-html-css/assets/17791454/a91284e3-50e3-4bee-8b97-7bd974d22f5b)
+
+Blog #1 - Bees
+![image](https://github.com/cmesias/plain-blog-html-css/assets/17791454/419382dd-6133-464f-9634-c413ce02ee85)
+
+Blog #2 - Strawberry Keto Ice Cream
+![image](https://github.com/cmesias/plain-blog-html-css/assets/17791454/93cf59f6-1c74-4bff-a4d0-ec7e9b95268f)
 
