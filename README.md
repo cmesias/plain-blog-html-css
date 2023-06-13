@@ -1,6 +1,8 @@
 # plain-blog-html-css
 Plain blog using html and css.
 
+Website here: https://cmesias.github.io/plain-blog-html-css/
+
 # Screenshot
 
 Blog #1 - Bees
